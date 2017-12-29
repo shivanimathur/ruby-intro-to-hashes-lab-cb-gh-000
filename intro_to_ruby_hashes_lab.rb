@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor(name)
-	{:name => "#{name}"}
+	actor = {:name => "#{name}"}
 end
 
 def monopoly
